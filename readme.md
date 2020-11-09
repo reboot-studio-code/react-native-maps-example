@@ -14,7 +14,7 @@ This is the RN Maps example project we have created at Reboot Studio. We have wr
 To get this project running locally:
 
 - Clone this repo
-- `yarn install` to install all req'd dependencies
+- `yarn install` to install all required dependencies
 - `yarn start` to start the expo dev tools
 
 Once the expo dev tools are ready you can run the app in your phone using the expo client or on any simulator in your computer.
@@ -22,6 +22,7 @@ Once the expo dev tools are ready you can run the app in your phone using the ex
 ## The Team
 
 Curious about who made this app? Know more about [Reboot Studio](https://reboot.studio)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
